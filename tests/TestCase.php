@@ -2,9 +2,9 @@
 
 namespace IbrhimBougaoua\FilamentPos\Tests;
 
+use IbrhimBougaoua\FilamentPos\FilamentPosServiceProvider;
 use Illuminate\Database\Eloquent\Factories\Factory;
 use Orchestra\Testbench\TestCase as Orchestra;
-use IbrhimBougaoua\FilamentPos\FilamentPosServiceProvider;
 
 class TestCase extends Orchestra
 {
